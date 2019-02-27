@@ -1,0 +1,2 @@
+# Error-esp-8266-OLED-1.3inch
+Encountered 2 problems related to OLED 1.3inch in esp8266 Error 1:  default argument given for parameter 2 of 'void ACROBOTIC_SSD1306::setFont(const uint8_t*, bool)' [-fpermissive]   void ACROBOTIC_SSD1306::setFont(const uint8_t* font, bool inverse=false)    and Error 2: after previous specification in 'void ACROBOTIC_SSD1306::setFont(const uint8_t*, bool)' [-fpermissive]       void setFont(const uint8_t* font, bool inverse=false); 
